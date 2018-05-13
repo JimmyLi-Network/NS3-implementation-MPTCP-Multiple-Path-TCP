@@ -1,0 +1,9 @@
+>>>>>>>>>>>>>>>> []
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/config-store/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['ns3::AttributeConstructionList &'],) in wrapper protected: retval? ???::ConstructSelf (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/config-store/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['ns3::Callback< ns3::ObjectBase *, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty >'],) in wrapper public: retval? ???::GetConstructor (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/config-store/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('Missing transfer_ownership option',) in wrapper public: retval? ???::LookupAttributeByName (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/config-store/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception CodeGenerationError('ns3::FileConfig cannot be constructed (class has pure virtual methods)',) in wrapper <pybindgen.CppClass 'ns3::FileConfig'>
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))

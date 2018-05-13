@@ -1,0 +1,74 @@
+>>>>>>>>>>>>>>>> [['void', 'ns3::Ptr<ns3::Packet>', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty']]
+***** registering callback handler: 'ns3::Callback< void, ns3::Ptr< ns3::Packet >, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty >'
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::_List_const_iterator< ns3::AttributeConstructionList::Item >'],) in wrapper public: retval? ???::Begin (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::_List_const_iterator< ns3::AttributeConstructionList::Item >'],) in wrapper public: retval? ???::End (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::ostream *'],) in wrapper public: retval? ???::CopyData (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::CopyData (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Deserialize (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['uint8_t *'],) in wrapper public: retval? ???::PeekData (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Serialize (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Read (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Write (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['ns3::Ptr< ns3::EventImpl > &'],) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7f1ff3a99150>
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('Either caller_owns_return or self.reference_existing_object must be given',) in wrapper public: retval? ???::PeekEventImpl (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Enable (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('Missing transfer_ownership option',) in wrapper public: retval? ???::Delete (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['uint8_t [ 20 ]'],) in wrapper None
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('Either caller_owns_return or self.reference_existing_object must be given',) in wrapper None
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['uint8_t *'],) in wrapper public: retval? ???::GetBuffer (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['MPI_Request *'],) in wrapper public: retval? ???::GetRequest (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::SetBuffer (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::ostream &'],) in wrapper public: virtual retval? ???::Print (params?) const = 0;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7f1ff39c2810>
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['ns3::Callback< ns3::ObjectBase *, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty >'],) in wrapper public: retval? ???::GetConstructor (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('Missing transfer_ownership option',) in wrapper public: retval? ???::LookupAttributeByName (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['short unsigned int'],) in wrapper None
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('Missing transfer_ownership option',) in wrapper public: virtual retval? ???::Schedule (params?) = 0;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('Missing transfer_ownership option',) in wrapper public: virtual retval? ???::ScheduleDestroy (params?) = 0;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('Missing transfer_ownership option',) in wrapper public: virtual retval? ???::ScheduleNow (params?) = 0;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('Missing transfer_ownership option',) in wrapper public: virtual retval? ???::ScheduleWithContext (params?) = 0;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('Missing transfer_ownership option',) in wrapper public: virtual retval? ???::Schedule (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('Missing transfer_ownership option',) in wrapper public: virtual retval? ???::ScheduleDestroy (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('Missing transfer_ownership option',) in wrapper public: virtual retval? ???::ScheduleNow (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('Missing transfer_ownership option',) in wrapper public: virtual retval? ???::ScheduleWithContext (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7f1ff368d990>
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7f1ff368d9d0>
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::ostream &'],) in wrapper public: retval? ???::Print (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::ostream &'],) in wrapper public: retval? ???::PrintByteTags (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/mpi/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::ostream &'],) in wrapper public: retval? ???::PrintPacketTags (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))

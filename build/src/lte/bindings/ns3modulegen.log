@@ -1,0 +1,188 @@
+>>>>>>>>>>>>>>>> [['void', 'ns3::Ptr<ns3::Packet>', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty'], ['void', 'ns3::Ptr<ns3::NetDevice>', 'ns3::Ptr<ns3::Packet const>', 'unsigned short', 'ns3::Address const&', 'ns3::Address const&', 'ns3::NetDevice::PacketType', 'ns3::empty', 'ns3::empty', 'ns3::empty'], ['void', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty'], ['bool', 'ns3::Ptr<ns3::Packet>', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty'], ['bool', 'ns3::Ptr<ns3::NetDevice>', 'ns3::Ptr<ns3::Packet const>', 'unsigned short', 'ns3::Address const&', 'ns3::Address const&', 'ns3::NetDevice::PacketType', 'ns3::empty', 'ns3::empty', 'ns3::empty'], ['bool', 'ns3::Ptr<ns3::NetDevice>', 'ns3::Ptr<ns3::Packet const>', 'unsigned short', 'ns3::Address const&', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty'], ['void', 'ns3::Ptr<ns3::Packet const>', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty']]
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['ns3::LteMacQueue::QueueElement'],) in wrapper <pybindgen.Container 'std::deque< ns3::LteMacQueue::QueueElement >'>
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+***** registering callback handler: 'ns3::Callback< void, ns3::Ptr< ns3::Packet >, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty >'
+***** registering callback handler: 'ns3::Callback< void, ns3::Ptr< ns3::NetDevice >, ns3::Ptr< ns3::Packet const >, unsigned short, ns3::Address const &, ns3::Address const &, ns3::NetDevice::PacketType, ns3::empty, ns3::empty, ns3::empty >'
+***** registering callback handler: 'ns3::Callback< void, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty >'
+***** registering callback handler: 'ns3::Callback< bool, ns3::Ptr< ns3::Packet >, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty >'
+***** registering callback handler: 'ns3::Callback< bool, ns3::Ptr< ns3::NetDevice >, ns3::Ptr< ns3::Packet const >, unsigned short, ns3::Address const &, ns3::Address const &, ns3::NetDevice::PacketType, ns3::empty, ns3::empty, ns3::empty >'
+***** registering callback handler: 'ns3::Callback< bool, ns3::Ptr< ns3::NetDevice >, ns3::Ptr< ns3::Packet const >, unsigned short, ns3::Address const &, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty >'
+***** registering callback handler: 'ns3::Callback< void, ns3::Ptr< ns3::Packet const >, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty >'
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7f8e27e5e3d0>
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::CopyAllFrom (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::CopyAllTo (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::CopyFrom (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::CopyTo (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::_List_const_iterator< ns3::AttributeConstructionList::Item >'],) in wrapper public: retval? ???::Begin (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::_List_const_iterator< ns3::AttributeConstructionList::Item >'],) in wrapper public: retval? ???::End (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::ostream *'],) in wrapper public: retval? ???::CopyData (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::CopyData (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Deserialize (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['uint8_t *'],) in wrapper public: retval? ???::PeekData (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Serialize (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Read (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Write (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['ns3::Ptr< ns3::EventImpl > &'],) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7f8e27d7eb90>
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('Either caller_owns_return or self.reference_existing_object must be given',) in wrapper public: retval? ???::PeekEventImpl (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::ostream &'],) in wrapper public: retval? ???::Print (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7f8e27d11e90>
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::GetBytes (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Set (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7f8e27cd3dd0>
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< ns3::Ptr< ns3::NetDevice > const, std::vector< ns3::Ptr< ns3::NetDevice > > >'],) in wrapper public: retval? ???::Begin (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< ns3::Ptr< ns3::NetDevice > const, std::vector< ns3::Ptr< ns3::NetDevice > > >'],) in wrapper public: retval? ???::End (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< ns3::Ptr< ns3::Node > const, std::vector< ns3::Ptr< ns3::Node > > >'],) in wrapper public: retval? ???::Begin (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< ns3::Ptr< ns3::Node > const, std::vector< ns3::Ptr< ns3::Node > > >'],) in wrapper public: retval? ???::End (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('Missing transfer_ownership option',) in wrapper public: retval? ???::Delete (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['uint8_t [ 20 ]'],) in wrapper None
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('Either caller_owns_return or self.reference_existing_object must be given',) in wrapper None
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::ostream &'],) in wrapper public: virtual retval? ???::Print (params?) const = 0;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7f8e27a9ab10>
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('Either caller_owns_return or self.reference_existing_object must be given',) in wrapper public: virtual retval? ???::Copy (params?) const = 0;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('Either caller_owns_return or self.reference_existing_object must be given',) in wrapper public: virtual retval? ???::Copy (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['ns3::Callback< ns3::ObjectBase *, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty >'],) in wrapper public: retval? ???::GetConstructor (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('Missing transfer_ownership option',) in wrapper public: retval? ???::LookupAttributeByName (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< ns3::Tlv * const *, std::vector< ns3::Tlv * > >'],) in wrapper public: retval? ???::Begin (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< ns3::Tlv * const *, std::vector< ns3::Tlv * > >'],) in wrapper public: retval? ???::End (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['short unsigned int'],) in wrapper None
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< ns3::Ipv4AddressTlvValue::ipv4Addr const *, std::vector< ns3::Ipv4AddressTlvValue::ipv4Addr > >'],) in wrapper public: retval? ???::Begin (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< ns3::Ipv4AddressTlvValue::ipv4Addr const *, std::vector< ns3::Ipv4AddressTlvValue::ipv4Addr > >'],) in wrapper public: retval? ???::End (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::ostream &'],) in wrapper public: virtual retval? ???::Print (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::_List_const_iterator< ns3::Ptr< ns3::Packet > >'],) in wrapper public: retval? ???::Begin (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::_List_const_iterator< ns3::Ptr< ns3::Packet > >'],) in wrapper public: retval? ???::End (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::pair< double, double >'],) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7f8e277f9710>
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::pair< double, double >'],) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7f8e277f9750>
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< ns3::PortRangeTlvValue::PortRange const *, std::vector< ns3::PortRangeTlvValue::PortRange > >'],) in wrapper public: retval? ???::Begin (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< ns3::PortRangeTlvValue::PortRange const *, std::vector< ns3::PortRangeTlvValue::PortRange > >'],) in wrapper public: retval? ???::End (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< unsigned char const *, std::vector< unsigned char > >'],) in wrapper public: retval? ???::Begin (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< unsigned char const *, std::vector< unsigned char > >'],) in wrapper public: retval? ???::End (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('Either caller_owns_return or self.reference_existing_object must be given',) in wrapper public: retval? ???::GetIpcsClassifierRecord (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('Missing transfer_ownership option',) in wrapper public: retval? ???::SetIpcsClassifierRecord (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::vector< ns3::Ptr< ns3::RadioBearerInstance > > *'],) in wrapper public: retval? ???::GetDownlinkGbrBearers (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::vector< ns3::Ptr< ns3::RadioBearerInstance > > *'],) in wrapper public: retval? ???::GetDownlinkNgbrBearers (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::vector< ns3::Ptr< ns3::RadioBearerInstance > > *'],) in wrapper public: retval? ???::GetUplinkGbrBearers (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::vector< ns3::Ptr< ns3::RadioBearerInstance > > *'],) in wrapper public: retval? ???::GetUplinkNgbrBearers (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['ns3::Ptr< ns3::SpectrumErrorModel >', 'ns3::SpectrumErrorModel *'],) in wrapper public: retval? ???::SetErrorModel (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< ns3::BandInfo const *, std::vector< ns3::BandInfo > >'],) in wrapper public: retval? ???::Begin (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< ns3::BandInfo const *, std::vector< ns3::BandInfo > >'],) in wrapper public: retval? ???::End (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< ns3::BandInfo const *, std::vector< ns3::BandInfo > >'],) in wrapper public: retval? ???::ConstBandsBegin (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< ns3::BandInfo const *, std::vector< ns3::BandInfo > >'],) in wrapper public: retval? ???::ConstBandsEnd (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< double const *, std::vector< double > >'],) in wrapper public: retval? ???::ConstValuesBegin (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< double const *, std::vector< double > >'],) in wrapper public: retval? ???::ConstValuesEnd (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< double *, std::vector< double > >'],) in wrapper public: retval? ???::ValuesBegin (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< double *, std::vector< double > >'],) in wrapper public: retval? ???::ValuesEnd (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('Either caller_owns_return or self.reference_existing_object must be given',) in wrapper public: retval? ???::Copy (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('Either caller_owns_return or self.reference_existing_object must be given',) in wrapper public: retval? ???::CopyValue (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('Either caller_owns_return or self.reference_existing_object must be given',) in wrapper public: retval? ???::PeekValue (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::vector< ns3::Ptr< ns3::UeRecord > > *'],) in wrapper public: retval? ???::GetUeRecords (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::deque< ns3::LteMacQueue::QueueElement > &'],) in wrapper public: retval? ???::GetPacketQueue (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['ns3::Ptr< ns3::Application >', 'ns3::Application *'],) in wrapper public: retval? ???::AddApplication (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['ns3::Ptr< ns3::Application >', 'ns3::Application *'],) in wrapper public: retval? ???::GetApplication (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['ns3::Callback< void, ns3::Ptr< ns3::NetDevice >, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty >'],) in wrapper public: retval? ???::RegisterDeviceAdditionListener (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['ns3::Callback< void, ns3::Ptr< ns3::NetDevice >, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty >'],) in wrapper public: retval? ???::UnregisterDeviceAdditionListener (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7f8e271c9d50>
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeConfigurationError('direction not given',) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7f8e271c9d90>
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::ostream &'],) in wrapper public: retval? ???::PrintByteTags (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::ostream &'],) in wrapper public: retval? ???::PrintPacketTags (params?) const;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::list< ns3::PdcchMapIdealControlMessage::IdealPdcchRecord > *'],) in wrapper public: retval? ???::GetMessage (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['ns3::Ptr< ns3::PropagationLossModel >', 'ns3::PropagationLossModel *'],) in wrapper public: virtual retval? ???::AddPropagationLossModel (params?) = 0;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['ns3::Ptr< ns3::PropagationDelayModel >', 'ns3::PropagationDelayModel *'],) in wrapper public: virtual retval? ???::SetPropagationDelayModel (params?) = 0;
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['std::list< ns3::CqiIdealControlMessage::CqiFeedback > *'],) in wrapper public: retval? ???::GetMessage (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['ns3::Ptr< ns3::PropagationLossModel >', 'ns3::PropagationLossModel *'],) in wrapper public: virtual retval? ???::AddPropagationLossModel (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception TypeLookupError(['ns3::Ptr< ns3::PropagationDelayModel >', 'ns3::PropagationDelayModel *'],) in wrapper public: virtual retval? ???::SetPropagationDelayModel (params?);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/pybindgen-0.15.0.795/pybindgen/cppclass_typehandlers.py:1134: UserWarning: Returning shared pointers is dangerous!  The C++ API should be redesigned to avoid this situation.
+  warnings.warn("Returning shared pointers is dangerous!"
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception NotSupportedError('Reverse wrappers for ns3::Callback<...> types (python using callbacks defined in C++) not implemented.',) in wrapper public: virtual void ns3::LteNetDevice::AddLinkChangeCallback (ns3::Callback< void, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty > callback);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception NotSupportedError('Reverse wrappers for ns3::Callback<...> types (python using callbacks defined in C++) not implemented.',) in wrapper public: virtual void ns3::LteNetDevice::SetReceiveCallback (ns3::Callback< bool, ns3::Ptr< ns3::NetDevice >, ns3::Ptr< ns3::Packet const >, unsigned short, ns3::Address const &, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty > cb);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception NotSupportedError('Reverse wrappers for ns3::Callback<...> types (python using callbacks defined in C++) not implemented.',) in wrapper public: virtual void ns3::LteNetDevice::SetPromiscReceiveCallback (ns3::Callback< bool, ns3::Ptr< ns3::NetDevice >, ns3::Ptr< ns3::Packet const >, unsigned short, ns3::Address const &, ns3::Address const &, ns3::NetDevice::PacketType, ns3::empty, ns3::empty, ns3::empty > cb);
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception CodeGenerationError('ns3::PacketScheduler cannot be constructed (class has pure virtual methods)',) in wrapper <pybindgen.CppClass 'ns3::PacketScheduler'>
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception CodeGenerationError('ns3::LtePhy cannot be constructed (class has pure virtual methods)',) in wrapper <pybindgen.CppClass 'ns3::LtePhy'>
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/jimmy/Documents/ns-allinone-3.13/ns-3.13/src/lte/bindings/modulegen__gcc_LP64.py:9: UserWarning: exception CodeGenerationError('ns3::LteSpectrumPhy cannot be constructed (class has pure virtual methods)',) in wrapper <pybindgen.CppClass 'ns3::LteSpectrumPhy'>
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))

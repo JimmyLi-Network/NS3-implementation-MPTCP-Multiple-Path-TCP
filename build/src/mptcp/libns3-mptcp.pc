@@ -1,0 +1,12 @@
+
+prefix=/usr/local
+libdir=/usr/local/lib
+includedir=/usr/local/include
+
+Name: libns3-mptcp
+Description: ns-3 module ns3-mptcp
+Version: devel
+Libs: -L${libdir} -Wl,-Bdynamic -lns3-mptcp
+Cflags: -I${includedir}
+Requires: libns3-core libns3-wifi libns3-network libns3-propagation libns3-bridge libns3-internet libns3-mpi libns3-applications
+
