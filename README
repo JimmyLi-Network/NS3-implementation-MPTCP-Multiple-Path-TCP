@@ -1,7 +1,9 @@
-NS-3 Simulation of MPTCP in 802.11ad WiGig and WiFi
+NS-3 Simulation of MPTCP Multiple-Path-TCP-in-802.11ad-WiGig-and-Wi-Fi
 
 Yilong: Configuration code in 'mpTopology.cc'. If you want to compile the source code, you should put the mpTopology in /scratch and run with ./waf.
 
 Fundamental models and protocols are in /src/mptcp/.
 
 Running the simulation, you type './waf --run mpTopology --vis'
+
+Please install neccessary dependents and you are going to use this example
